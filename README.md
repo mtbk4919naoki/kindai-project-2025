@@ -4,3 +4,5 @@ hello
 
 conflict 2
 conflict 1
+
+test a
