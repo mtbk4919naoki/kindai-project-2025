@@ -6,3 +6,4 @@ conflict 2
 conflict 1
 
 test b
+test a
